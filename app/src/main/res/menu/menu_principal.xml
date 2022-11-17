@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_novo"
+        android:title="Registrar Coche" />
+    <item
+        android:id="@+id/menu_consultar"
+        android:title="Consultar" />
+    <item
+        android:id="@+id/menu_rest"
+        android:title="Reiniciar" />
+</menu>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#206E1A</color>
+    <color name="colorPrimaryDark">#0D4715</color>
+    <color name="colorAccent">#FFE640</color>
+    <color name="carro_estacionado">#F1F0A7</color>
+    <color name="carro_desestacionado">#ffffff</color>
+
+</resources>
